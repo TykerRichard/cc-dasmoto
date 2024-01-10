@@ -1,5 +1,5 @@
 .Logo{
-    background-image: url(docs/assets/Images/background.jpeg);
+    background-image: url(src/assets/Images/background.jpeg);
 }
 .Logo .Words{
     font-family: Helvetica;
