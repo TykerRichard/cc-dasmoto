@@ -1,0 +1,66 @@
+.Logo{
+    background-image: url(background.jpeg);
+}
+.Logo .Words{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color:khaki;
+    text-align: center;
+}
+
+*{
+    margin:0; 
+    padding:0; 
+    font-size:100%; 
+    line-height:1; 
+    box-sizing: border-box;
+}
+
+.main section h3{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+}
+.Title{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+img{
+    margin-bottom: 10px;
+}
+.Brushes .Title{
+    background-color: mediumspringgreen;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.Frames .Title{
+    background-color:lightcoral;
+}
+
+.Paint .Title{
+    background-color: skyblue;
+}
+
+.price{
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.navitems li{
+    display: inline-block;
+    padding:10px 20px;
+}
+
+section h4,
+section img,
+section p{
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
